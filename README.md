@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- I am Lourdel.
+- 💻 Tech Enthusiast | Full-Stack Developer | Lifelong Learner
+- 👨‍💻 Always diving into exciting code projects
