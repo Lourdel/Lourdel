@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 - I am Lourdel.
 - 💻 Tech Enthusiast | Full-Stack Developer | Lifelong Learner
 - 👨‍💻 Always diving into exciting code projects
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lourdel)](https://github.com/anuraghazra/github-readme-stats)
