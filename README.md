@@ -10,16 +10,17 @@
 - I am Lourdel.
 - 💻 Tech Enthusiast | Full-Stack Developer | Lifelong Learner
 - 👨‍💻 Always diving into exciting code projects
-- 🔭 I’m currently working on CodeAlpha Projects
+- 🔭 I’m currently working on Next.JS Projects
 - 👯 I’m looking to collaborate on projects using MERN & LAMP stacks
 
  ## Skills
- - C++
  - Python
  - Node JS
  - Express JS
  - React
+ - Next.Js
  - HTML, CSS, JavaScript
- - MySQL, MongoDB
+ - MySQL, MongoDB, PostgreSQL
+ - C++
 
 
