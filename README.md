@@ -7,8 +7,7 @@
 
 - 🌱 I’m currently learning ...
 -->
-- I am Lourdel.
-- 💻 Tech Enthusiast | Full-Stack Developer | Lifelong Learner
+- 💻 Tech Enthusiast | Full-Stack Developer | Critical Thinker
 - 👨‍💻 Always diving into exciting code projects
 - 🔭 I’m currently working on Next.JS Projects
 - 👯 I’m looking to collaborate on projects using MERN & LAMP stacks
